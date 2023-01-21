@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+  <CD>
+    <ORIGIN>California</ORIGIN>
+    <DESTINATION>NewYork</DESTINATION>
+    <COUNTRY>2022-12-28</COUNTRY>
+    <COMPANY>11:00 AM</COMPANY>
+    <PRICE>2022-12-28</PRICE>
+    <YEAR>4:00 PM</YEAR>
+    <price>130</price>
+    <flight>Spirit</flight>
+  </CD>
+  <CD>
+    <ORIGIN>New Mexico</ORIGIN>
+    <DESTINATION>Seattle</DESTINATION>
+    <COUNTRY>2022-12-30</COUNTRY>
+    <COMPANY>2:00 PM</COMPANY>
+    <PRICE>2022-12-30</PRICE>
+    <YEAR>5:00 PM</YEAR>
+    <price>170</price>
+    <flight>American Airlines</flight>
+  </CD>
+  <CD>
+    <ORIGIN>Dallas</ORIGIN>
+    <DESTINATION>Chicago</DESTINATION>
+    <COUNTRY>2023-01-02</COUNTRY>
+    <COMPANY>10:00 AM</COMPANY>
+    <PRICE>2023-01-02</PRICE>
+    <YEAR>2:00 PM</YEAR>
+    <price>78</price>
+    <flight>Southwest</flight>
+  </CD>
+  <CD>
+    <ORIGIN>Chicago</ORIGIN>
+    <DESTINATION>Dallas</DESTINATION>
+    <COUNTRY>2023-01-02</COUNTRY>
+    <COMPANY>6:00 AM</COMPANY>
+    <PRICE>2023-01-02</PRICE>
+    <YEAR>10:00 AM</YEAR>
+    <price>120</price>
+    <flight>Southwest</flight>
+  </CD>
+  <CD>
+    <ORIGIN>Boston</ORIGIN>
+    <DESTINATION>Arizona</DESTINATION>
+    <COUNTRY>2023-01-04</COUNTRY>
+    <COMPANY>7:00 PM</COMPANY>
+    <PRICE>2023-01-04</PRICE>
+    <YEAR>11:00 PM</YEAR>
+    <price>215</price>
+    <flight>Delta</flight>
+  </CD>
+  <CD>
+    <ORIGIN>Florida</ORIGIN>
+    <DESTINATION>Missouri</DESTINATION>
+    <COUNTRY>2023-01-10</COUNTRY>
+    <COMPANY>2:00 AM</COMPANY>
+    <PRICE>2023-01-10</PRICE>
+    <YEAR>7:00 AM</YEAR>
+    <price>120</price>
+    <flight>Alaska</flight>
+  </CD>
+  <CD>
+    <ORIGIN>New Orleans</ORIGIN>
+    <DESTINATION>Maine</DESTINATION>
+    <COUNTRY>2023-01-07</COUNTRY>
+    <COMPANY>8:00 AM</COMPANY>
+    <PRICE>2023-01-07</PRICE>
+    <YEAR>12:00 PM</YEAR>
+    <price>145</price>
+    <flight>Frontier</flight>
+  </CD>
+  <CD>
+    <ORIGIN>Austin</ORIGIN>
+    <DESTINATION>Pennsylvania</DESTINATION>
+    <COUNTRY>2023-01-13</COUNTRY>
+    <COMPANY>2:30 PM</COMPANY>
+    <PRICE>2023-01-13</PRICE>
+    <YEAR>8:45 PM</YEAR>
+    <price>100</price>
+    <flight>Spirit Airlines</flight>
+  </CD>
+  <CD>
+    <ORIGIN>Baltimore</ORIGIN>
+    <DESTINATION>Utah</DESTINATION>
+    <COUNTRY>2023-01-21</COUNTRY>
+    <COMPANY>9:45 AM</COMPANY>
+    <PRICE>2023-01-21</PRICE>
+    <YEAR>12:30 PM</YEAR>
+    <price>110</price>
+    <flight>Delta</flight>
+  </CD>
+  <CD>
+    <ORIGIN>Minnesota</ORIGIN>
+    <DESTINATION>Los Angeles</DESTINATION>
+    <COUNTRY>2023-01-26</COUNTRY>
+    <COMPANY>2:45 PM</COMPANY>
+    <PRICE>2023-01-26</PRICE>
+    <YEAR>8:30 PM</YEAR>
+    <price>218</price>
+    <flight>American</flight>
+  </CD>
+  <CD>
+    <ORIGIN>St.Louis</ORIGIN>
+    <DESTINATION>Chicago</DESTINATION>
+    <COUNTRY>2023-01-28</COUNTRY>
+    <COMPANY>9:25 AM</COMPANY>
+    <PRICE>2023-01-28</PRICE>
+    <YEAR>12:30 PM</YEAR>
+    <price>75</price>
+    <flight>Alaska</flight>
+  </CD>
+  <CD>
+    <ORIGIN>Houston</ORIGIN>
+    <DESTINATION>Virginia</DESTINATION>
+    <COUNTRY>2023-01-25</COUNTRY>
+    <COMPANY>7:25 PM</COMPANY>
+    <PRICE>2023-01-26</PRICE>
+    <YEAR>12:45 AM</YEAR>
+    <price>135</price>
+    <flight>JetBlue Airways</flight>
+  </CD>
+  <CD>
+    <ORIGIN>Delaware</ORIGIN>
+    <DESTINATION>New Mexico</DESTINATION>
+    <COUNTRY>2023-01-15</COUNTRY>
+    <COMPANY>8:35 AM</COMPANY>
+    <PRICE>2023-01-15</PRICE>
+    <YEAR>3:30 PM</YEAR>
+    <price>275</price>
+    <flight>Tradewind Aviation</flight>
+  </CD>
+  <CD>
+    <ORIGIN>Kansas</ORIGIN>
+    <DESTINATION>Kentucky</DESTINATION>
+    <COUNTRY>2023-01-18</COUNTRY>
+    <COMPANY>3:15 AM</COMPANY>
+    <PRICE>2023-01-18</PRICE>
+    <YEAR>8:30 AM</YEAR>
+    <price>128</price>
+    <flight>Hawaiian</flight>
+  </CD>
+  <CD>
+    <ORIGIN>Denver</ORIGIN>
+    <DESTINATION>San Jose</DESTINATION>
+    <COUNTRY>2023-01-16</COUNTRY>
+    <COMPANY>8:55 AM</COMPANY>
+    <PRICE>2023-01-16</PRICE>
+    <YEAR>1:20 PM</YEAR>
+    <price>225</price>
+    <flight>Frontier</flight>
+  </CD>
+  <CD>
+    <ORIGIN>San Diego</ORIGIN>
+    <DESTINATION>Oklahoma</DESTINATION>
+    <COUNTRY>2023-01-23</COUNTRY>
+    <COMPANY>4:25 PM</COMPANY>
+    <PRICE>2023-01-23</PRICE>
+    <YEAR>8:40 PM</YEAR>
+    <price>95</price>
+    <flight>Southwest</flight>
+  </CD>
+  <CD>
+    <ORIGIN>Charlotte</ORIGIN>
+    <DESTINATION>Detroit</DESTINATION>
+    <COUNTRY>2023-01-29</COUNTRY>
+    <COMPANY>7:15 AM</COMPANY>
+    <PRICE>2023-01-29</PRICE>
+    <YEAR>12:35 PM</YEAR>
+    <price>155</price>
+    <flight>Delta</flight>
+  </CD>
+  <CD>
+    <ORIGIN>Portland</ORIGIN>
+    <DESTINATION>Buffalo</DESTINATION>
+    <COUNTRY>2023-01-28</COUNTRY>
+    <COMPANY>9:25 PM</COMPANY>
+    <PRICE>2023-01-29</PRICE>
+    <YEAR>12:30 AM</YEAR>
+    <price>215</price>
+    <flight>Alaska</flight>
+  </CD>
+  <CD>
+    <ORIGIN>Buffalo</ORIGIN>
+    <DESTINATION>Portland</DESTINATION>
+    <COUNTRY>2023-01-28</COUNTRY>
+    <COMPANY>4:35 AM</COMPANY>
+    <PRICE>2023-01-28</PRICE>
+    <YEAR>10:30 AM</YEAR>
+    <price>185</price>
+    <flight>Alaska</flight>
+  </CD>
+  <CD>
+    <ORIGIN>Miami</ORIGIN>
+    <DESTINATION>Atlanta</DESTINATION>
+    <COUNTRY>2022-12-20</COUNTRY>
+    <COMPANY>8:00 AM</COMPANY>
+    <PRICE>2022-12-20</PRICE>
+    <YEAR>11:00 AM</YEAR>
+    <price>140</price>
+    <flight>United</flight>
+  </CD>
+  <CD>
+    <ORIGIN>Phoenix</ORIGIN>
+    <DESTINATION>Birmingham</DESTINATION>
+    <COUNTRY>2022-12-18</COUNTRY>
+    <COMPANY>8:30 PM</COMPANY>
+    <PRICE>2022-12-18</PRICE>
+    <YEAR>11:10 PM</YEAR>
+    <price>160</price>
+    <flight>Sun Country</flight>
+  </CD>
+  <CD>
+    <ORIGIN>Tampa</ORIGIN>
+    <DESTINATION>Dallas</DESTINATION>
+    <COUNTRY>2022-12-23</COUNTRY>
+    <COMPANY>8:00 AM</COMPANY>
+    <PRICE>2022-12-23</PRICE>
+    <YEAR>9:40 AM</YEAR>
+    <price>65</price>
+    <flight>Alaska</flight>
+  </CD>
+  
+
+</CATALOG>

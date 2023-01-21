@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Register!</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
+    <script src="https://unpkg.com/just-validate@latest/dist/just-validate.production.min.js" defer></script>
+    <script src="/validation.js" defer></script>
+</head>
+<body>
+    
+    <h1>Register!</h1>
+    
+    <form action="process-register.php" method="post" id="register" novalidate>
+        <div>
+            <label for="phonenumber">Phone Number - PassengerID</label>
+            <input type="text" id="phonenumber" name="phonenumber">
+        </div>
+
+        <div>
+            <label for="firstname">First Name</label>
+            <input type="text" id="firstname" name="firstname">
+        </div>
+
+        <div>
+            <label for="lastname">Last Name</label>
+            <input type="text" id="lastname" name="lastname">
+        </div>
+
+        <div>
+            <label for="age">Age</label>
+            <input type="text" id="age" name="age">
+        </div>
+        
+        <div>
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email">
+        </div>
+        
+        <div>
+            <label for="password">Password</label>
+            <input type="password" id="password" name="password">
+        </div>
+        
+        <div>
+            <label for="password_confirmation">Confirm Password</label>
+            <input type="password" id="password_confirmation" name="password_confirmation">
+        </div>
+        
+        <button>Register</button>
+        <button type="button" class="btn1" onclick="location.href='login.php'">Log In</button>
+    </form>
+    
+</body>
+</html>
